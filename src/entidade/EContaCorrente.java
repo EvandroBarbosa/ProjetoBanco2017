@@ -7,9 +7,11 @@ package entidade;
 public class EContaCorrente {
     private Double saldoAtual = 0.0;
 
+    //Construtor
     public EContaCorrente() {
     }
     
+    //Construtor com parametro
     public EContaCorrente(Double saldoAtual){
         this.saldoAtual = saldoAtual;
     }
