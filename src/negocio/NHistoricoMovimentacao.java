@@ -5,7 +5,7 @@ import persistencia.PHistoricoMovimentacao;
 
 /**
  *
- * @author aluno
+ * @author Evandro
  */
 public class NHistoricoMovimentacao {
     
